@@ -1,0 +1,2 @@
+Model_A,Model_B,A_correct_B_wrong,A_wrong_B_correct,Discordant_pairs,McNemar_p_value
+TF-IDF + URL,DistilRoBERTa + URL,409,425,834,0.6035030737163937
